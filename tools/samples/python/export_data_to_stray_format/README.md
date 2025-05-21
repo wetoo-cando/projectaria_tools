@@ -1,0 +1,1 @@
+Based on PROJECTARIA_TOOLS_ROOT/tools/samples/python/mps_semidense_point_visibility

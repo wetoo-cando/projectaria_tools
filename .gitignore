@@ -1,3 +1,4 @@
+tools/samples/python/export_data_to_stray_format/exported_data_stray_format
 build/**
 dist/**
 website/yarn.lock
